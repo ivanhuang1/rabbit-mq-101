@@ -1,0 +1,2 @@
+require_paths: 
+  - hutch-app/consumers/failed_payment_consumer.rb
